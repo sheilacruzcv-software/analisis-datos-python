@@ -25,6 +25,13 @@ Aplicar técnicas de análisis de datos utilizando Python, enfocándose en la li
 organización, procesamiento y visualización básica de la información, como parte del
 aprendizaje en Desarrollo de Software.
 
+## Rol y aportes personales
+- Desarrollo completo del proyecto de manera individual.
+- Análisis y limpieza de los datos utilizando Python.
+- Organización y procesamiento de la información con Pandas y NumPy.
+- Documentación del proyecto y estructuración del repositorio en GitHub.
+- Aplicación de buenas prácticas en la presentación del código y resultados.
+
 ## Autor
 Sheila Cruz  
 Estudiante de Desarrollo de Software  
